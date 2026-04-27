@@ -1,0 +1,10 @@
+profile/
+.env
+__pycache__/
+node_modules/
+.pytest_cache/
+*.pyc
+.venv/
+.DS_Store
+# tmp outputs
+/tmp/
